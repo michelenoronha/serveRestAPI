@@ -1,5 +1,5 @@
 # serveRestAPI
-Teste de API Rest do manual a CI/CD
+Teste de API Rest 
 
 ## O que é
 Este repositório foi criado para aprendizado de Teste de API Rest.
